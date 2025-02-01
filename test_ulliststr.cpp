@@ -22,7 +22,7 @@ int main(int argc, char* argv[])
 {
 	ULListStr list;
 
-	cout << "=== TESTING ULListStr IMPLEMENTATION ===" << endl;
+	cout << "testing begins" << endl;
 
 	// push_back on an empty list
 	cout << "Pushing back 'A'..." << endl;
